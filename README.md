@@ -101,8 +101,7 @@ See [`cheatsheet.md`](cheatsheet.md) for a quick reference of the commands used 
 
 ## About
 
-**Author:** Ashu
-**Goal:** Entry-level SOC Analyst / Blue Team role
+**Author:** Ashray
 
 ---
 
